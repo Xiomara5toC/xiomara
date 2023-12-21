@@ -1,0 +1,142 @@
+logo del emprendimiento
+Edgar Rubén Mayta Loza
+•
+14 dic (Editado: 18 dic)
+20 puntos
+Fecha límite: 14 dic
+Esta es la actividad final:
+Tienes que "AGREGAR" una página web de tus productos o servicios que ofrece tu emprendimiento de acuerdo a la página principal que subiste en la actividad anterior.
+En la página principal un "LINK" para ir al catálogo.
+En la página CATÁLOGO, un "LINK" para ir a la página principal.
+Éxitos.
+Tu trabajo
+Calificada
+
+SPORT STORE.html
+HTML
+
+CATALOGO.html
+HTML
+Tu profesor no acepta trabajos en este momento
+1 comentario privado
+
+Edgar Rubén Mayta Loza18 dic
+No hay link válido.
+Agregar un comentario privado…
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tienda – SPORT STORE</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: #f2f2f2;
+        }
+
+        nav {
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+
+        section {
+            margin: 20px 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #f2f2f2;
+        }
+
+        .product {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>TIENDA - SPORT STORE</h1>
+        <p>Encuentra todo lo que necesitas para tus actividades deportivas.</p>
+    </header>
+
+    <section>
+        <div class="product">
+            <h2>Zapatillas para Correr</h2>
+            <p>Precio: $99.99</p>
+            <p>Descripcion: Zapatillas de running de alta calidad.</p>
+
+        </div>
+
+        <div class="product">
+            <h2>Pelota de Futbol</h2>
+            <p>Precio: $29.99</p>
+            <p>Descripcion: Pelota oficial para tus partidos de futbol.</p>
+        </div>
+
+        <div class="product">
+            <h2>Raqueta de Tenis</h2>
+            <p>Precio: $79.99</p>
+            <p>Descripcion: Raqueta de tenis profesional para tus partidos.</p>
+        </div >
+            <div class="product">
+            <h2>Zapatillas para Basquetball</h2>
+            <p>Precio: $99.99</p>
+            <p>Descripcion: Zapatillas de running de alta calidad.</p>
+        </div>
+
+        <div class="product">
+            <h2>Pelota de Voley</h2>
+            <p>Precio: $40.00</p>
+            <p>Descripcion: Pelota oficial para tus partidos de futbol.</p>
+        </div>
+
+        <div class="product">
+            <h2>Pelota de Basquetball</h2>
+            <p>Precio: $90.00</p>
+            <p>Descripcion: Pelota de Basquetball profesional para tus partidos.</p>
+        </div>
+        <div class="product">
+                       <h2>Guantes de arquero</h2>
+            <p>Precio: $50.00</p>
+            <p>Descripcion: Guantes de arquero de alta calidad.</p>
+        </div>
+
+        <div class="product">
+            <h2>Camisetas de equipos Variados</h2>
+            <p>Precio: $25.00</p>
+            <p>Descripcion: camisetas para tus partidos de futbol.</p>
+        </div>
+
+        <div class="product">
+            <h2>Medias para futbol</h2>
+            <p>Precio: $15.00</p>
+            <p>Descripcion: Cada par para tus partidos.</p>
+        </div>
+
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Tienda de Deportes. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
